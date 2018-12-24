@@ -39,5 +39,6 @@ Bar Katz – [bar-katz on github](https://github.com/bar-katz) – barkatz138@gm
 3. Commit your changes (`git commit -am 'add feature'`)
 4. Push to the branch (`git push origin feature`)
 5. Create a new Pull Request
-<br>
-#### Share your results in the comments!
+<br><br>
+<b>Share your results!</b><br>
+<b>Found a language LSTM can not learn try to understand why and add your language description to languages directory.</b>
