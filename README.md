@@ -40,4 +40,4 @@ Bar Katz – [bar-katz on github](https://github.com/bar-katz) – barkatz138@gm
 4. Push to the branch (`git push origin feature`)
 5. Create a new Pull Request
 <br>
-##### Share your results in the comments!
+#### Share your results in the comments!
